@@ -5,7 +5,7 @@ public class Main {
         System.out.println(a>>1);
         System.out.println(a<< 0b1);
         System.out.println(a&4);
-        System.out.println(a|4);
+       // System.out.println(a|4);
         System.out.println(a^4);
     }
 }
